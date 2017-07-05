@@ -1,0 +1,41 @@
+/* Turn background black */
+body{
+  background-color: black;
+  font-family: Verdana;
+}
+
+/* Turning title into verdana, normal, 50px, white, centered */
+#title{
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h2{
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.center{
+  text-align: center;
+}
+
+#header2{
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+h3{
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+h4{
+  text-align: right;
+  color: gray;
+}
